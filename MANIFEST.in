@@ -1,0 +1,3 @@
+include README.md
+recursive-include ora2_codemirror/static *
+recursive-include ora2_codemirror/templates *
